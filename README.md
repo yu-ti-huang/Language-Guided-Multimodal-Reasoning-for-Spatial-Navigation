@@ -1,5 +1,5 @@
 # Conversational-Orientation-Reasoning
-Official implementation for the paper "Conversational Orientation Reasoning: Egocentric-to-Allocentric Navigation with Multimodal Chain-of-Thought" (arXiv 2025).
+Official implementation for the paper "Language-Guided Multimodal Reasoning for Spatial Navigation".
 
 ## Installation
 Clone the repository and install dependencies:
