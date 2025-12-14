@@ -1,6 +1,3 @@
-# Conversational-Orientation-Reasoning
-Official implementation for the paper "Language-Guided Multimodal Reasoning for Spatial Navigation".
-
 ## Installation
 Clone the repository and install dependencies:
 ```bash
