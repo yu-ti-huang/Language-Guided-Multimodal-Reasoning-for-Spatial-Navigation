@@ -1,11 +1,10 @@
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yu-ti-huang/Conversational-Orientation-Reasoning.git
+git clone https://github.com/yu-ti-huang/Language-Guided-Multimodal-Reasoning-for-Spatial-Navigation.git
 cd Conversational-Orientation-Reasoning
 pip install -r requirements.txt
 ```
-
 ## Repository Structure
 ```bash
 .
